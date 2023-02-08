@@ -114,6 +114,7 @@ footer
 {
    margin-top: 20px;
    height: 200px;
+   width:400px;
  border-radius: 10px;
-   background-image: linear-gradient(to right, rgb(228, 228, 20), rgba(7, 7, 7, 0.784));
+   background-color:black;
 }
