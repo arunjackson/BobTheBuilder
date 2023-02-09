@@ -1,0 +1,176 @@
+
+#TEXT
+{
+   text-align: center; 
+   background-color: white;
+   margin-top: -5px;
+   box-shadow: 3px 8px 16px ;
+   color: rgb(56, 79, 184);
+
+}
+body
+{
+   background-image: linear-gradient(to right, yellow, rgba(211, 64, 62, 0.784));
+    background-image: linear-gradient(to right, rgb(252, 0, 0) , rgb(53, 50, 50)); 
+}
+.pic
+{
+  margin-bottom: 20px;
+  margin-left: 70px;
+   width: 300px;
+   background-color:bisque ;
+   border-radius: 20px;
+   align-items: center;
+   box-shadow: 15px 14px 1px ;
+   color: rgb(6, 6, 6);
+
+   
+   
+}
+.spic
+{
+  margin-top:-30px;
+  margin-left: 50%;
+   width: 200px;
+   background-color:bisque ;
+   border-radius: 20px;
+ 
+ 
+box-shadow: 15px 14px 1px ;
+   color: rgb(6, 6, 6);
+   position:fixed;
+
+   
+   
+}
+#insta
+{
+  
+font-size: xx-large;
+padding-left: 5px;
+text-align: center;
+
+ 
+
+
+}
+#dir
+{
+   font-size:large;
+  margin-top:14px ;
+   margin-left: 310px;
+   background-color: white;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+h1
+{
+   font-family:'Copperplate';
+   background-color: white;
+}
+h4
+{
+color: aliceblue;
+margin-left:6px ;
+font-weight: 900;
+}
+.sec
+{
+background-color: ;
+border-radius: 10px;
+position: centre;
+box-shadow: 3px 8px 16px ;
+
+
+
+}
+a:link
+{
+   color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+.card
+{
+   margin-top: 20px;
+   height: 150px;
+   width:380px;
+   background-color: rgb(0, 5, 8);
+   border-radius: 10px;box-shadow: 3px 8px 16px ;
+
+
+}
+.secard
+{
+   margin-top:-150px;
+   height: 150px;
+   width:380px;
+   background-color: black;
+   border-radius: 10px;
+   margin-left: 600px;
+   box-shadow: 3px 8px 16px ;
+}
+button
+{
+   color: black;
+   background-color: white;
+   border-radius: 10px;
+   margin-left: 9px;
+   font-family:copperlate;
+   text-decoration: none;
+   box-shadow: 3px 8px 16px ; 
+   
+}
+
+.but
+{
+   color: black;
+   background-color: white;
+   border-radius: 10px;
+   margin-left: 9px;
+   position: fixed;
+   text-decoration: none;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   
+}
+.binsta
+{
+   margin-top: -100px ;
+   text-align: center;
+   position: fixed;
+   box-shadow: 3px 8px 16px ;
+}
+.nav
+{
+ background-color: wheat;
+}
+.cardpic
+{
+   height: 120px;
+   width: 80px;
+   margin-left: 200px;
+   margin-top: -100px;
+   border: 6px wheat;
+   border-radius: 6px;
+   box-shadow: 3px 8px 16px ;
+}
+.rcardpic
+{
+   height: 120px;
+   width: 80px;
+   margin-left: 200px;
+   margin-top: -70px;
+   border: 6px wheat;
+   border-radius: 6px;
+   box-shadow: 3px 8px 16px ;
+}
+
+footer
+{
+   margin-top: 20px;
+   height: 200px;
+   width: 400px;
+ border-radius: 10px;
+   background-color: black;
+   
+}
